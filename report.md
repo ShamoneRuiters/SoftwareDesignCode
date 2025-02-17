@@ -1,0 +1,1 @@
+In this assignment I created a repository in GitHub. Followed by creating an html file, text file and .md file, which contains the specifications mentioned in the brief.I made two commits, one of which is a special commit message described in the brief. I also created one branch named feature/student-details. I also deployed the index.html file and lastly bundle the repository.
